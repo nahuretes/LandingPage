@@ -92,7 +92,7 @@ var pJS = function(tag_id, params){
       events: {
         onhover: {
           enable: true,
-          mode: 'repulse'
+          mode: 'grab'
         },
         onclick: {
           enable: true,
